@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://twitter.com/sonam25kadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonam25kadam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sonam-kadam-150b71241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonam-kadam-150b71241" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sonamkadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sonamkadam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
