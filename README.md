@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonam Kadam</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🔭 I’m currently working on [SortVision](https://github.com/sonamkadam25/SortVision)
-
 - 📫 How to reach me **sonam25kadam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
